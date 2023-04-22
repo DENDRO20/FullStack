@@ -1,0 +1,3 @@
+[submodule "very_app"]
+	path = very_app
+	url = https://github.com/DENDRO20/FLSTCK.git
